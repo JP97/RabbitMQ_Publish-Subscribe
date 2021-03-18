@@ -1,0 +1,16 @@
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\bin\Debug\netcoreapp3.1\PublishSubscribe.exe
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\bin\Debug\netcoreapp3.1\PublishSubscribe.deps.json
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\bin\Debug\netcoreapp3.1\PublishSubscribe.runtimeconfig.json
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\bin\Debug\netcoreapp3.1\PublishSubscribe.runtimeconfig.dev.json
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\bin\Debug\netcoreapp3.1\PublishSubscribe.dll
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\bin\Debug\netcoreapp3.1\PublishSubscribe.pdb
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\obj\Debug\netcoreapp3.1\PublishSubscribe.csprojAssemblyReference.cache
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\obj\Debug\netcoreapp3.1\PublishSubscribe.AssemblyInfoInputs.cache
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\obj\Debug\netcoreapp3.1\PublishSubscribe.AssemblyInfo.cs
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\obj\Debug\netcoreapp3.1\PublishSubscribe.csproj.CoreCompileInputs.cache
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\obj\Debug\netcoreapp3.1\PublishSubscribe.csproj.CopyComplete
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\obj\Debug\netcoreapp3.1\PublishSubscribe.dll
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\obj\Debug\netcoreapp3.1\PublishSubscribe.pdb
+C:\Users\Nutzer\source\repos\PublishSubscribe\PublishSubscribe\obj\Debug\netcoreapp3.1\PublishSubscribe.genruntimeconfig.cache
